@@ -13,7 +13,7 @@ Here are a few of my projects:
 ---
 
 ## 📄 Resume
-[Download PDF](resume.pdf)
+[Download PDF]
 
 ---
 
