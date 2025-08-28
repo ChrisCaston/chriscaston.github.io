@@ -22,4 +22,4 @@ Here are a few of my projects:
 ## 🔗 Links
 - [GitHub](https://github.com/ChrisCaston)  
 - [LinkedIn](https://www.linkedin.com/in/christopher-caston/)  
-- 📧 chrisjcaston@gmail.com
+- chrisjcaston@gmail.com
