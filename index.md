@@ -1,4 +1,5 @@
-Welcome to my portfolio! I'm passionate about **data science, machine learning, and software engineering**.  
+Welcome to my portfolio! I'm passionate about **data science, machine learning, and software engineering**.
+
 Here are a few of my projects:
 
 ---
@@ -13,7 +14,7 @@ Here are a few of my projects:
 ---
 
 ## 📄 Resume
-[Download PDF]
+[Download PDF](resume.pdf)
 
 ---
 
