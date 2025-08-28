@@ -15,7 +15,7 @@ Here are a few of my projects:
 ---
 
 ## 📄 Resume
-[Download PDF](#) *(add your link later)*
+[Download PDF](resume.pdf)
 
 ---
 
