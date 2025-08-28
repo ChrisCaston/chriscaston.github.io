@@ -1,5 +1,3 @@
-# 👋 Hi, I'm Chris
-
 Welcome to my portfolio! I'm passionate about **data science, machine learning, and software engineering**.  
 Here are a few of my projects:
 
